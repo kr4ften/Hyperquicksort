@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <sys/time.h>
 #include "hqs.h"
-#include <math.h>
 
 // Return current time in seconds, for use in benchmarking
 static double curr_time() {
